@@ -1,0 +1,22 @@
+{
+  "name": "touchon_kiosk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjwopen/TouchOn_Kiosk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjwopen/TouchOn_Kiosk/issues"
+  },
+  "homepage": "https://github.com/jjwopen/TouchOn_Kiosk#readme",
+  "dependencies": {
+    "tailwindcss": "^4.1.6"
+  }
+}
